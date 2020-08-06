@@ -1,3 +1,4 @@
+```
 名称: Auto Rename Tag
 ID: formulahendry.auto-rename-tag
 说明: Auto rename paired HTML/XML tag
@@ -131,3 +132,4 @@ ID: octref.vetur
 版本: 0.26.0
 发布者: Pine Wu
 VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=octref.vetur
+```
